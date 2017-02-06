@@ -10,7 +10,6 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using AForge.Imaging;
-using OrangeJuiceBot.Imaging;
 using OrangeJuiceBot.Model;
 
 namespace OrangeJuiceBot
